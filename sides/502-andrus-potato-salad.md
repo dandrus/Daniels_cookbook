@@ -1,6 +1,4 @@
-===============================================
-Sides   |   Side Dish   |   Family Recipe
-===============================================
+**Sides  |  Side Dish  |  Family Recipe**
 
 ## Family Potato Salad
 

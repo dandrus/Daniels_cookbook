@@ -1,6 +1,4 @@
-===============================================
-Slow Cooker   |   Beef   |   Comfort Food
-===============================================
+**Slow Cooker  |  Beef  |  Comfort Food**
 
 ## Classic Slow Cooker Pot Roast
 Pinch Me, I’m Eating

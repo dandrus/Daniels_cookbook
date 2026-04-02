@@ -1,6 +1,4 @@
-===============================================
-Slow Cooker   |   Southern   |   Comfort Food
-===============================================
+**Slow Cooker  |  Southern  |  Comfort Food**
 
 ## Southern Black-Eyed Peas
 *Butter Be Ready*

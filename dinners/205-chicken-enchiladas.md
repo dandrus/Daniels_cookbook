@@ -1,6 +1,4 @@
-===============================================
-Dinner   |   Mexican-Inspired   |   Chicken
-===============================================
+**Dinner  |  Mexican-Inspired  |  Chicken**
 
 ## Creamy Chicken Enchiladas
 *The Country Cook*

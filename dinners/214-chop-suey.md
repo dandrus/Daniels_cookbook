@@ -1,6 +1,4 @@
-===============================================
-Dinner   |   Pasta   |   Comfort Food
-===============================================
+**Dinner  |  Pasta  |  Comfort Food**
 
 ## American Chop Suey
 *XOXO Bella*

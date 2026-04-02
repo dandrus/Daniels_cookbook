@@ -1,6 +1,4 @@
-===============================================
-Dinner   |   Chicken   |   Easy Bake
-===============================================
+**Dinner  |  Chicken  |  Easy Bake**
 
 ## Chica Licka Bam Bam Baked Chicken Thighs
 *Family recipe*

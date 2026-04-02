@@ -1,6 +1,4 @@
-===============================================
-Snacks   |   Dip   |   Party Favorite
-===============================================
+**Snacks  |  Dip  |  Party Favorite**
 
 ## Crack Dip
 Family recipe

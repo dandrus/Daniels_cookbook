@@ -1,6 +1,4 @@
-===============================================
-Desserts   |   Cookies   |   Brown Butter
-===============================================
+**Desserts  |  Cookies  |  Brown Butter**
 
 ## Brown Butter Chocolate Chip Cookies
 Ladies Nest

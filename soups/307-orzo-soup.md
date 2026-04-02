@@ -1,6 +1,4 @@
-===============================================
-Soups   |   Sausage   |   One-Pot
-===============================================
+**Soups  |  Sausage  |  One-Pot**
 
 ## Sausage Orzo Soup
 The Flavours of Kitchen

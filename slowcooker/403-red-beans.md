@@ -1,6 +1,4 @@
-===============================================
-Slow Cooker   |   Cajun   |   Comfort Food
-===============================================
+**Slow Cooker  |  Cajun  |  Comfort Food**
 
 ## Red Beans and Rice
 Suzie the Foodie (Cajun Ninja Style)

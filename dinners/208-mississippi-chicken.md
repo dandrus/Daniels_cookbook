@@ -1,6 +1,4 @@
-===============================================
-Dinner   |   Chicken   |   Slow Cooker
-===============================================
+**Dinner  |  Chicken  |  Slow Cooker**
 
 ## Mississippi Chicken
 Salt & Lavender

@@ -1,6 +1,4 @@
-===============================================
-Sides   |   Cajun   |   Southern
-===============================================
+**Sides  |  Cajun  |  Southern**
 
 ## Cajun Rice Dressing
 *Louisiana Woman Blog*

@@ -1,6 +1,4 @@
-===============================================
-Soups   |   Italian   |   Copycat
-===============================================
+**Soups  |  Italian  |  Copycat**
 
 ## Olive Garden-Style Minestrone Soup
 Cooking With Saphira

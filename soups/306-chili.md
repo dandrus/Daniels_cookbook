@@ -1,6 +1,4 @@
-===============================================
-Soups   |   Chili   |   Family Favorite
-===============================================
+**Soups  |  Chili  |  Family Favorite**
 
 ## Easy Chili
 McCormick

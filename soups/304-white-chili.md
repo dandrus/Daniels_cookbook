@@ -1,6 +1,4 @@
-===============================================
-Soups   |   Chicken   |   Comfort Food
-===============================================
+**Soups  |  Chicken  |  Comfort Food**
 
 ## White Chicken Chili
 *Cooking Classy*

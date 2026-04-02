@@ -1,6 +1,4 @@
-===============================================
-Dinner   |   Pasta   |   Comfort Food
-===============================================
+**Dinner  |  Pasta  |  Comfort Food**
 
 ## Easy Goulash
 *I Wash You Dry*

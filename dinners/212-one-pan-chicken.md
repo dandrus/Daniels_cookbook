@@ -1,6 +1,4 @@
-===============================================
-Dinner   |   Chicken   |   One-Pan
-===============================================
+**Dinner  |  Chicken  |  One-Pan**
 
 ## One-Pan Herb Chicken & Vegetable Skillet
 Family recipe

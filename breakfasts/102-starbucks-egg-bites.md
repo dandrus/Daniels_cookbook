@@ -1,8 +1,6 @@
 ## 102. Starbucks-Style Egg Bites
 
-===============================================
-Breakfast   |   Eggs   |   Make-Ahead
-=====================================
+**Breakfast  |  Eggs  |  Make-Ahead**
 
 Servings: 6–8 egg bites | Prep: 10 min | Cook: 25–30 min
 

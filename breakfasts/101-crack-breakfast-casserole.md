@@ -1,6 +1,4 @@
-===============================================
-Breakfasts   |   Eggs   |   Make-Ahead
-===============================================
+**Breakfasts  |  Eggs  |  Make-Ahead**
 
 ## Starbucks-Style Egg Bites
 Bad Batch Baking

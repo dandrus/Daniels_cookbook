@@ -1,6 +1,4 @@
-===============================================
-Dinner   |   Indian-Inspired   |   Chicken
-===============================================
+**Dinner  |  Indian-Inspired  |  Chicken**
 
 ## Butter Chicken
 *Chili Pepper Madness*

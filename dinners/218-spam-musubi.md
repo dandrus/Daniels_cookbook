@@ -1,6 +1,4 @@
-===============================================
-Dinner   |   Hawaiian   |   Casserole
-===============================================
+**Dinner  |  Hawaiian  |  Casserole**
 
 ## Spam Musubi Bake
 FeedMi

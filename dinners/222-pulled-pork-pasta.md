@@ -1,6 +1,4 @@
-===============================================
-Dinner   |   Pasta   |   Leftovers
-===============================================
+**Dinner  |  Pasta  |  Leftovers**
 
 ## Creamy Leftover Pulled Pork Pasta
 Whole Made Living

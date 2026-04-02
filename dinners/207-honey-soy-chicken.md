@@ -1,6 +1,4 @@
-===============================================
-Dinner   |   Chicken   |   Sweet & Savory
-===============================================
+**Dinner  |  Chicken  |  Sweet & Savory**
 
 ## Honey Soy Chicken Thighs
 *Munchkin Time*

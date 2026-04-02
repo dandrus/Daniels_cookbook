@@ -1,6 +1,4 @@
-===============================================
-Soups   |   Copycat   |   Comfort Food
-===============================================
+**Soups  |  Copycat  |  Comfort Food**
 
 ## Copycat Zuppa Toscana
 *Will Cook For Smiles*

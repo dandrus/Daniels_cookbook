@@ -1,6 +1,4 @@
-===============================================
-Soups   |   Sausage   |   Comfort Food
-===============================================
+**Soups  |  Sausage  |  Comfort Food**
 
 ## Sausage Soup
 *I Am Homesteader*

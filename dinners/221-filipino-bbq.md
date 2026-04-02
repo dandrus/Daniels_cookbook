@@ -1,6 +1,4 @@
-===============================================
-Dinner   |   Filipino   |   Grilled
-===============================================
+**Dinner  |  Filipino  |  Grilled**
 
 ## Filipino BBQ Chicken Skewers
 Like Like Drive Inn

@@ -1,6 +1,4 @@
-===============================================
-Desserts   |   Pie   |   Classic
-===============================================
+**Desserts  |  Pie  |  Classic**
 
 ## Homemade Pecan Pie
 Karo Syrup

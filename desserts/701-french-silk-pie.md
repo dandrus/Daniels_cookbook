@@ -1,6 +1,4 @@
-===============================================
-Desserts   |   Chocolate   |   Classic
-===============================================
+**Desserts  |  Chocolate  |  Classic**
 
 ## French Silk Chocolate Pie
 *Pillsbury*

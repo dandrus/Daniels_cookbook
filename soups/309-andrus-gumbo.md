@@ -1,6 +1,4 @@
-===============================================
-Soups   |   Cajun   |   Gumbo
-===============================================
+**Soups  |  Cajun  |  Gumbo**
 
 ## Andrus Gumbo
 Family recipe

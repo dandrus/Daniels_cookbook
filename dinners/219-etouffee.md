@@ -1,6 +1,4 @@
-===============================================
-Dinner   |   Cajun   |   Seafood
-===============================================
+**Dinner  |  Cajun  |  Seafood**
 
 ## Crawfish Étouffée
 Cajun Ninja

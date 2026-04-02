@@ -1,6 +1,4 @@
-===============================================
-Dinner   |   Thai   |   Curry
-===============================================
+**Dinner  |  Thai  |  Curry**
 
 ## Thai Red Chicken Curry
 *Pooja’s Cookery*

@@ -1,6 +1,4 @@
-===============================================
-Sheet Pan   |   Seafood   |   Quick Meals
-===============================================
+**Sheet Pan  |  Seafood  |  Quick Meals**
 
 ## Sheet Pan Shrimp Boil
 *Damn Delicious*

@@ -1,8 +1,6 @@
 ## 305. Taco Soup
 
-===============================================
-Soups   |   Quick Meals   |   Mexican-Inspired
-==============================================
+**Soups  |  Quick Meals  |  Mexican-Inspired**
 
 Servings: 6–8 | Prep: 10 min | Cook: 30 min | Total: ~40 min
 

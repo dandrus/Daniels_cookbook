@@ -1,6 +1,4 @@
-===============================================
-Dinner   |   Tacos   |   Seasoning
-===============================================
+**Dinner  |  Tacos  |  Seasoning**
 
 ## Homemade Taco Seasoning
 McCormick

@@ -1,6 +1,4 @@
-===============================================
-Slow Cooker   |   Chicken   |   Comfort Food
-===============================================
+**Slow Cooker  |  Chicken  |  Comfort Food**
 
 ## Crockpot Cheddar Chicken Pot Pie Tortellini
 Eats Recipes

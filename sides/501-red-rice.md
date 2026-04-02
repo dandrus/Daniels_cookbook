@@ -1,6 +1,4 @@
-===============================================
-Sides   |   Rice   |   Chamoru
-===============================================
+**Sides  |  Rice  |  Chamoru**
 
 ## Chamoru Red Rice
 Hineksa’ Agaga’

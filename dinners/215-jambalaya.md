@@ -1,6 +1,4 @@
-===============================================
-Dinner   |   Cajun   |   Rice Dish
-===============================================
+**Dinner  |  Cajun  |  Rice Dish**
 
 ## Meaty Jambalaya
 Louisiana Cookin’

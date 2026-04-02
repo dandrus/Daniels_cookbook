@@ -27,9 +27,7 @@ Recipes are organized by category folder:
 Each recipe file should follow this structure:
 
 ```markdown
-===============================================
-Category   |   Tag1   |   Tag2
-===============================================
+**Category  |  Tag1  |  Tag2**
 
 ## Recipe Title
 *Source Name*
@@ -47,8 +45,6 @@ Servings: X | Prep: X min | Cook: X min | Total: ~X min
 ### Notes / Tips
 - Note...
 ```
-
-Older/simpler recipes may omit the emoji headers and use plain `Ingredients`, `Instructions`, `Notes` headings instead — both styles are acceptable.
 
 ## Naming Convention
 

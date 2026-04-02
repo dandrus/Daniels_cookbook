@@ -1,6 +1,4 @@
-===============================================
-Slow Cooker   |   Meatballs   |   Comfort Food
-===============================================
+**Slow Cooker  |  Meatballs  |  Comfort Food**
 
 ## Slow Cooker Salisbury Steak Meatballs
 *Together As Family*
