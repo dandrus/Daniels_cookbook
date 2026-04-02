@@ -1,3 +1,13 @@
-# Potato Salad
+# Family Potato Salad
 
-See original book entry.
+## Ingredients
+
+-   potatoes
+-   eggs
+-   mayo
+-   mustard
+-   Tony's
+
+## Instructions
+
+Boil, mash, mix to taste.
