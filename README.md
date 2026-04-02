@@ -9,8 +9,10 @@ Recipes are organized into categories, each with a numeric prefix:
 - **100s** — Breakfasts
 - **200s** — Dinners
 - **300s** — Soups
-- **400s** — Desserts
-- **500s** — Snacks
+- **400s** — Slow Cooker
+- **500s** — Sides
+- **600s** — Snacks
+- **700s** — Desserts
 
 This numbering system is intentional — it allows new recipes to be added and printed individually without reprinting the entire book. Just print the new recipe page and an updated Table of Contents.
 
