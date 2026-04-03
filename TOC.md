@@ -6,6 +6,8 @@
 |---|--------|
 | 101 | Crack Breakfast Casserole |
 | 102 | Starbucks-Style Egg Bites |
+| 103 | Biscuits and Gravy |
+| 104 | French Toast Casserole |
 
 ## Dinners
 
@@ -60,12 +62,17 @@
 | 502 | Family Potato Salad |
 | 503 | Cajun Rice Dressing |
 | 504 | Garlic Naan |
+| 505 | Jalapeño Cheddar Cornbread |
+| 506 | Southern Macaroni and Cheese |
+| 507 | Asian Cucumber Salad |
 
 ## Snacks
 
 | # | Recipe |
 |---|--------|
 | 601 | Crack Dip |
+| 602 | Buffalo Chicken Dip |
+| 603 | Lumpia |
 
 ## Desserts
 
@@ -74,3 +81,6 @@
 | 701 | French Silk Pie |
 | 702 | Pecan Pie |
 | 703 | Brown Butter Chocolate Chip Cookies |
+| 704 | Southern Banana Pudding |
+| 705 | Mango Sticky Rice |
+| 706 | Bread Pudding with Vanilla Sauce |
