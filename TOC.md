@@ -30,6 +30,7 @@
 | 219 | Etouffee |
 | 221 | Filipino BBQ Chicken |
 | 222 | Creamy Pulled Pork Pasta |
+| 223 | Spicy Sausage Pasta |
 
 ## Soups
 
