@@ -9,7 +9,7 @@ Servings: 6 | Prep: 15 min | Cook: 30 min | Total: ~45 min
 
 **Enchiladas**
 - 2 cups cooked chicken, shredded (rotisserie works great)
-- 1 can (10 oz) red enchilada sauce
+- 1 can (10 oz) white or red enchilada sauce
 - 1 cup shredded cheddar or Mexican-blend cheese
 - 8 flour tortillas (8-inch)
 
