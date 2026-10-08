@@ -5,7 +5,7 @@ Family recipe
 
 Servings: 4 | Prep: 10 min | Cook: 25 min | Total: ~35 min
 
-Ingredients
+### Ingredients
 - 1.5 lb boneless chicken thighs or breasts, cut into bite-sized pieces
 - 1 medium onion, chopped
 - 2 medium carrots, sliced into coins
@@ -19,7 +19,7 @@ Ingredients
 - 1/2 cup chicken broth
 - Fresh parsley, chopped (optional)
 
-Instructions
+### Instructions
 1. Season chicken with paprika, thyme, salt, and pepper.
 2. Heat olive oil in a large skillet over medium-high heat.
 3. Sear chicken 5–6 minutes until golden; remove and set aside.
@@ -32,7 +32,7 @@ Instructions
 10. Adjust seasoning and garnish with parsley if desired.
 11. Serve as-is or over rice, quinoa, or crusty bread.
 
-Notes
+### Notes / Tips
 - Thighs stay juicier, but breasts work well.
 - Do not overcrowd the pan when searing.
 - Great for meal prep.

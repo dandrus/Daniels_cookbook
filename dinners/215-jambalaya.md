@@ -5,7 +5,7 @@ Louisiana Cookin’
 
 Servings: 6–8 | Prep: 20 min | Cook: 45 min | Total: ~1 hr 5 min
 
-Ingredients
+### Ingredients
 - 1 lb chicken thighs, diced
 - 12 oz andouille sausage, sliced
 - 1 lb shrimp, peeled and deveined (optional)
@@ -24,7 +24,7 @@ Ingredients
 - Salt, to taste
 - Green onions, chopped (optional)
 
-Instructions
+### Instructions
 1. Heat oil in a large heavy-bottomed pot over medium-high heat.
 2. Add chicken and sausage; brown well.
 3. Add onion, bell pepper, and celery; cook until softened.
@@ -36,7 +36,7 @@ Instructions
 9. If using shrimp, stir in during the last 10 minutes of cooking.
 10. Rest 5 minutes, fluff, and garnish with green onions if desired.
 
-Notes
+### Notes / Tips
 - Use a heavy pot for best rice texture.
 - Shrimp is optional but traditional in meaty jambalaya.
 - Leftovers reheat very well.

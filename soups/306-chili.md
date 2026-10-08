@@ -5,7 +5,7 @@ McCormick
 
 Servings: 6 | Prep: 10 min | Cook: 30 min | Total: ~40 min
 
-Ingredients
+### Ingredients
 - 1 lb ground beef
 - 1 medium onion, chopped
 - 2 cloves garlic, minced
@@ -16,7 +16,7 @@ Ingredients
 - 1/2 cup water
 - Salt and black pepper, to taste
 
-Instructions
+### Instructions
 1. In a large pot or Dutch oven, brown ground beef over medium heat.
 2. Add onion and cook until softened, about 4–5 minutes.
 3. Add garlic and cook 30 seconds until fragrant.
@@ -26,7 +26,7 @@ Instructions
 7. Taste and adjust seasoning with salt and pepper.
 8. Serve hot.
 
-Notes
+### Notes / Tips
 - Easily doubles for crowds or leftovers.
 - Add corn or black beans if you like extra texture.
 - Even better the next day.

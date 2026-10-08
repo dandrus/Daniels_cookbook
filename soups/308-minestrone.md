@@ -5,7 +5,7 @@ Cooking With Saphira
 
 Servings: 6–8 | Prep: 15 min | Cook: 30 min | Total: ~45 min
 
-Ingredients
+### Ingredients
 - 2 Tbsp olive oil
 - 1 medium onion, diced
 - 2 carrots, diced
@@ -20,7 +20,7 @@ Ingredients
 - 1 cup small pasta (ditalini or small shells)
 - 1–2 cups shredded cooked chicken (optional)
 
-Instructions
+### Instructions
 1. Heat olive oil in a large pot over medium heat.
 2. Add onion and carrots; cook 5 minutes until softened.
 3. Add garlic and cook 30 seconds until fragrant.
@@ -31,7 +31,7 @@ Instructions
 8. Stir in shredded chicken if using and heat through.
 9. Adjust seasoning and serve hot.
 
-Notes
+### Notes / Tips
 - Shredded chicken makes it heartier but is optional.
 - Soup thickens as it sits; add broth when reheating.
 - Freezes best without pasta added.

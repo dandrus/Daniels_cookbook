@@ -5,7 +5,7 @@ Eats Recipes
 
 Servings: 6 | Prep: 10 min | Cook: 6 hr | Total: ~6 hr 10 min
 
-Ingredients
+### Ingredients
 - 1 lb boneless, skinless chicken breasts
 - 3 cups frozen mixed vegetables
 - 1 small onion, diced
@@ -18,7 +18,7 @@ Ingredients
 - 1 cup shredded cheddar cheese
 - 1/2 cup heavy cream (optional, for extra creaminess)
 
-Instructions
+### Instructions
 1. Place chicken, frozen vegetables, onion, chicken broth, cream of chicken soup, garlic powder, thyme, salt, and pepper into the slow cooker.
 2. Cover and cook on LOW for 6 hours or until chicken is tender.
 3. Remove chicken, shred with two forks, and return to the slow cooker.
@@ -27,7 +27,7 @@ Instructions
 6. Add heavy cream if using and mix well.
 7. Serve hot.
 
-Notes
+### Notes / Tips
 - Add tortellini near the end to prevent overcooking.
 - Can substitute rotisserie chicken and reduce cook time.
 - Thickens as it sits.

@@ -5,7 +5,7 @@ Pinch Me, I’m Eating
 
 Servings: 6 | Prep: 15 min | Cook: 8 hr | Total: ~8 hr 15 min
 
-Ingredients
+### Ingredients
 - 3 lb chuck roast
 - Salt and black pepper, to taste
 - 2 Tbsp olive oil
@@ -19,7 +19,7 @@ Ingredients
 - 1 tsp dried thyme
 - 1 tsp dried rosemary
 
-Instructions
+### Instructions
 1. Season chuck roast generously with salt and pepper.
 2. Heat olive oil in a skillet over medium-high heat.
 3. Sear roast on all sides until well browned, about 4–5 minutes per side.
@@ -30,7 +30,7 @@ Instructions
 8. Cover and cook on LOW for 8 hours, or until beef is fork-tender.
 9. Remove roast, slice or shred, and serve with vegetables and cooking liquid.
 
-Notes
+### Notes / Tips
 - Searing the roast adds flavor but can be skipped if short on time.
 - Chuck roast works best for slow cooking.
 - Leftovers are excellent for sandwiches or reheating the next day.

@@ -15,7 +15,7 @@ Servings: 6 | Prep: 5 min | Cook: 5–6 hr | Total: ~6 hr
 - 2 Tbsp ketchup
 - 1 Tbsp Worcestershire sauce
 
-- Mashed pototes or egg noodles
+- Mashed potatoes or egg noodles
 
 **Cornstarch Slurry**
 - 2 Tbsp cornstarch

@@ -19,7 +19,6 @@
 | 205 | Creamy Chicken Enchiladas |
 | 206 | American Goulash |
 | 207 | Honey Soy Chicken |
-| 208 | Mississippi Chicken |
 | 209 | Cajun Broil |
 | 210 | Taco Seasoning |
 | 212 | One-Pan Herb Chicken |
@@ -54,6 +53,7 @@
 | 403 | Red Beans and Rice |
 | 404 | Southern Black-Eyed Peas |
 | 405 | Salisbury Steak Meatballs |
+| 406 | Mississippi Chicken |
 
 ## Sides
 

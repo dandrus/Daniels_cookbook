@@ -1,4 +1,4 @@
-**Breads  |  Garlic  |  Skillet**
+**Sides  |  Garlic  |  Skillet**
 
 ## Buttery Garlic Naan
 *Cafe Delites*

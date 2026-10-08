@@ -5,9 +5,9 @@ McCormick
 
 Servings: Makes about 1/4 cup seasoning | Prep: 5 min | Cook: N/A | Total: 5 min
 
-Ingredients
+### Ingredients
 
-Taco Seasoning
+**Taco Seasoning**
 - 1 Tbsp chili powder
 - 1 tsp ground cumin
 - 1 tsp garlic powder
@@ -18,17 +18,17 @@ Taco Seasoning
 - 1/4 tsp black pepper
 - 1/4 tsp crushed red pepper flakes (optional)
 
-For Tacos
+**For Tacos**
 - 1 lb ground beef or ground turkey
 - 3/4 cup water
 - Flour tortillas or taco shells
 
-Taco Toppings (Recommended)
+**Taco Toppings (Recommended)**
 - Shredded cheese (cheddar, Mexican blend, or Monterey Jack)
 - Fresh cilantro, chopped
 - Sour cream
 
-Instructions
+### Instructions
 1. In a small bowl, mix all taco seasoning ingredients until well combined.
 2. Brown ground meat in a skillet over medium heat; drain excess grease.
 3. Sprinkle seasoning evenly over the meat.
@@ -38,6 +38,6 @@ Instructions
 7. Serve seasoned meat in tortillas or shells.
 8. Top with shredded cheese, cilantro, and sour cream.
 
-Notes
+### Notes / Tips
 - Double or triple the batch to keep on hand.
 - Also works great for taco soup, nachos, or burrito bowls.

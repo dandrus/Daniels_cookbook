@@ -5,7 +5,7 @@ Hineksa’ Agaga’
 
 Servings: 8–10 | Prep: 25 min | Cook: 15 min | Total: ~40 min
 
-Ingredients
+### Ingredients
 - 5 cups uncooked medium-grain rice
 - 6 Tbsp achiote (annatto) seeds
 - 3 1/2 cups warm water (for achiote seeds)
@@ -19,7 +19,7 @@ Ingredients
 - 1 Tbsp salted butter
 - 1/2 cup frozen green peas
 
-Instructions
+### Instructions
 1. Rinse rice with water until clear. Drain and transfer to a rice cooker.
 2. In a bowl, combine achiote seeds and warm water. Rub seeds with gloved hands until water turns deep red.
 3. Strain and discard seeds. Pour achiote water into the rice cooker.
@@ -33,7 +33,7 @@ Instructions
 11. About 10 minutes into cooking, briefly open and stir once to distribute ingredients evenly.
 12. When finished, let rice sit in cooker 10 minutes before serving.
 
-Notes
+### Notes / Tips
 - Medium-grain rice works best.
 - Canned peas are not recommended.
 - Refrigerate up to 3 days or freeze in portions.

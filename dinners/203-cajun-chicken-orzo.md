@@ -1,4 +1,4 @@
-**Quick Meals  |  Cajun  |  Chicken**
+**Dinner  |  Cajun  |  Chicken**
 
 ## Cajun Chicken Orzo
 *Supergolden Bakes*

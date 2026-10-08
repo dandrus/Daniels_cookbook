@@ -5,11 +5,11 @@ Like Like Drive Inn
 
 Servings: 6 | Prep: 20 min (plus marinating) | Cook: 15 min | Total: ~35 min + marinating
 
-Ingredients
+### Ingredients
 - 2 lb boneless, skinless chicken thighs, cut into strips
 - Wooden skewers (soaked in water 30 minutes)
 
-Marinade
+**Marinade**
 - 1/2 cup soy sauce
 - 1/3 cup brown sugar
 - 1/4 cup ketchup
@@ -18,7 +18,7 @@ Marinade
 - 1 tsp black pepper
 - 1 Tbsp vinegar (white or cane)
 
-Instructions
+### Instructions
 1. In a bowl, whisk together all marinade ingredients.
 2. Add chicken and mix to coat thoroughly.
 3. Cover and refrigerate at least 4 hours, preferably overnight.
@@ -28,7 +28,7 @@ Instructions
 7. Baste with leftover marinade during grilling if desired.
 8. Serve hot.
 
-Notes
+### Notes / Tips
 - Marinating overnight gives best flavor.
 - Do not reuse marinade unless boiled first.
 - Pairs well with Chamoru Red Rice.

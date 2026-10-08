@@ -1,9 +1,9 @@
-**Dinner  |  Chicken  |  Slow Cooker**
+**Slow Cooker  |  Chicken  |  Comfort Food**
 
 ## Mississippi Chicken
 Salt & Lavender
 
-Servings: 6 | Prep: 5 min | Cook: 6–7 hr | Total: ~6 hr
+Servings: 6 | Prep: 5 min | Cook: 6–7 hr | Total: ~6–7 hr
 
 ### Ingredients
 - 2 lb boneless, skinless chicken breasts or thighs

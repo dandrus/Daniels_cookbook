@@ -5,7 +5,7 @@ Suzie the Foodie (Cajun Ninja Style)
 
 Servings: 6–8 | Prep: 15 min | Cook: 2–3 hr | Total: ~3 hr
 
-Ingredients
+### Ingredients
 - 1 lb dried red beans, soaked overnight
 - 12 oz smoked sausage or andouille, sliced
 - 1 medium onion, diced
@@ -19,7 +19,7 @@ Ingredients
 - 6–8 cups water
 - Cooked white rice, for serving
 
-Instructions
+### Instructions
 1. Drain soaked beans and rinse well.
 2. In a large pot, add beans, sausage, onion, bell pepper, celery, and garlic.
 3. Add bay leaves, Cajun seasoning, pepper, and water.
@@ -30,7 +30,7 @@ Instructions
 8. Remove bay leaves if used.
 9. Serve over hot white rice.
 
-Notes
+### Notes / Tips
 - Longer simmer equals better flavor.
 - Smoked sausage adds most of the seasoning.
 - Even better the next day.
