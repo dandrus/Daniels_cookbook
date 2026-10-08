@@ -3,7 +3,7 @@
 ## Crack Breakfast Casserole
 *Fresh Savory*
 
-Servings: 12 | Prep: 25 min | Cook: 1 hr 5 min | Total: ~1 hr 30 min
+Servings: 12 | Prep: 25 min | Cook: 1 hr 5 min | Total: ~1 hr 40 min
 
 ### Ingredients
 - 30 oz frozen shredded hash browns, thawed
